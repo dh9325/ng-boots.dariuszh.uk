@@ -1,0 +1,22 @@
+.jumbotron {
+    background: url('../../assets/img/Bright-Binary.jpg'), radial-gradient(#9a9a9a, #000), repeating-linear-gradient(transparent 0, rgba(0, 0, 0, 0.1) 2.5px, transparent 5px);
+    background-blend-mode: overlay;
+    color: white;
+    height: 425px;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+a, a:visited {
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+    transition: text-shadow 0.5s;
+    padding-left: 10px;
+    text-transform: uppercase;
+}
+
+a:hover {
+    text-shadow: 0 0 10px white;
+    color: white;
+}

@@ -1,0 +1,12 @@
+.navbar-brand {
+    text-transform: uppercase;
+}
+a, a:visited {
+    text-decoration: none;
+    transition: text-shadow 0.5s;
+    padding-left: 10px;
+}
+
+a:hover {
+    text-shadow: 0 0 10px white;
+}

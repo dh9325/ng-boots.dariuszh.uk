@@ -1,0 +1,15 @@
+footer {
+    padding-bottom: 20px;
+}
+
+a, a:visited {
+    color: grey;
+    text-decoration: none;
+    transition: text-shadow 0.5s;
+    padding-left: 10px;
+}
+
+a:hover {
+    text-shadow: 0 0 10px white;
+    color: white;
+}
